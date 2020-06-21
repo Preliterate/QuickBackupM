@@ -2,7 +2,7 @@
 
 为重启倒计时添加倒计时条的QuickBackupM。
 
-2020年6月22日 Fork于[TISUnion/QuickBackupM](https://github.com/TISUnion/QuickBackupM)。[原QuickBackupM文档](https://github.com/Preliterate/QuickBackupM-PB/blob/master/QuickBackupM_README_cn.md)
+2020年6月22日 Fork于[**TISUnion/QuickBackupM**](https://github.com/TISUnion/QuickBackupM)。[`原QuickBackupM文档`](https://github.com/Preliterate/QuickBackupM-PB/blob/master/QuickBackupM_README.md)
 
 此功能为自动开启，当检测到安装[ProgressBar](https://github.com/Preliterate/ProgressBar)时，会自动启动，否则会使用原版QBM使用的计时方式。
 
